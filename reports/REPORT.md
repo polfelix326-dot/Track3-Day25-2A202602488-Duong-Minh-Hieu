@@ -1,6 +1,7 @@
 # Lab 25B — Report
 
-**Họ tên / nhóm:** Dương Minh Hiếu (Mã SV: 2A202602488)  **Commit:** `HEAD`  **Điểm tự động (`make grade`):** 84.0 / 88 (Đạt điểm tuyệt đối 84/84 các hạng mục public)
+**Họ tên / nhóm:** Dương Minh Hiếu (Mã SV: 2A202602488)  **Commit:** `eb5f21a`  **Điểm tự động (`make grade`):** 84.0 / 88 (Đạt điểm tuyệt đối 84/84 các hạng mục public)
+
 
 > Mọi nhận định phải có số. Dán số từ `reports/gameday/*.json`, `reports/workflows.json`, `reports/slo.json`.
 
